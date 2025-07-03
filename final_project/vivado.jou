@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Jul  3 00:05:05 2025
+# Process ID: 26616
+# Current directory: C:/Users/yucwa/Desktop/Fall 2024/LAB CLASSES/ECE3300L/final_project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8756 C:\Users\yucwa\Desktop\Fall 2024\LAB CLASSES\ECE3300L\final_project\final_project.xpr
+# Log file: C:/Users/yucwa/Desktop/Fall 2024/LAB CLASSES/ECE3300L/final_project/vivado.log
+# Journal file: C:/Users/yucwa/Desktop/Fall 2024/LAB CLASSES/ECE3300L/final_project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/yucwa/Desktop/Fall 2024/LAB CLASSES/ECE3300L/final_project/final_project.xpr}
+update_compile_order -fileset sources_1

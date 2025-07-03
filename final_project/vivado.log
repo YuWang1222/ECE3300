@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Jul  3 00:05:05 2025
+# Process ID: 26616
+# Current directory: C:/Users/yucwa/Desktop/Fall 2024/LAB CLASSES/ECE3300L/final_project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8756 C:\Users\yucwa\Desktop\Fall 2024\LAB CLASSES\ECE3300L\final_project\final_project.xpr
+# Log file: C:/Users/yucwa/Desktop/Fall 2024/LAB CLASSES/ECE3300L/final_project/vivado.log
+# Journal file: C:/Users/yucwa/Desktop/Fall 2024/LAB CLASSES/ECE3300L/final_project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/yucwa/Desktop/Fall 2024/LAB CLASSES/ECE3300L/final_project/final_project.xpr}
+WARNING: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Users/yucwa/Desktop/Fall 2024/LAB CLASSES/ECE3300L/final_project/final_project.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+open_project: Time (s): cpu = 00:00:17 ; elapsed = 00:00:13 . Memory (MB): peak = 1073.539 ; gain = 0.000
+update_compile_order -fileset sources_1
